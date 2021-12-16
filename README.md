@@ -2,7 +2,7 @@
 _Plugin para Minecraft_
 
 
-Quieres pasar Miencraft de otra forma? Prueba con este plugin para Spiggot/Bukkit
+Quieres pasar Minecraft de otra forma? Prueba con este plugin para Spiggot/Bukkit
 
 ```
 Minecraft Versión: 1.16+
