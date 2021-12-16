@@ -1,5 +1,6 @@
-version: 0.1
-name: Solo Tierra
+version: '1.0'
+name: SoloTierra
 main: com.jkdev.plugin.Main
 author: JkDev
-description: Todo lo que piques se hara tierra, no me crees? Intentalo!
+description: prueba
+api-version: '1.17'
