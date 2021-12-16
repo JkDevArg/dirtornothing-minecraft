@@ -6,7 +6,7 @@ Quieres pasar Miencraft de otra forma? Prueba con este plugin para Spiggot/Bukki
 
 ```
 Minecraft Versión: 1.16+
-Plugin Versión: 0.1 (Actualizado)
+Plugin Versión: 0.2 (Actualizado)
 ```
 
 ## Actualizaciones
