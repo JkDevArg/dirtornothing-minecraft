@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 version: '1.0'
 name: SoloTierra
 main: com.jkdev.plugin.Main
 author: JkDev
 description: prueba
 api-version: '1.17'
-=======
-version: 0.1
-name: SoloTierra
-main: com.jkdev.plugin.Main
-author: JkDev
-description: Prueba
->>>>>>> 928f6cbcd6ae1296a48eb709101e5e5fd11126e4
