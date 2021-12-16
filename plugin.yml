@@ -1,0 +1,5 @@
+version: 0.1
+name: Solo Tierra
+main: com.jkdev.plugin.Main
+author: JkDev
+description: Todo lo que piques se hara tierra, no me crees? Intentalo!
