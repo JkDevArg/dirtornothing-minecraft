@@ -2,13 +2,18 @@
 _Plugin para Minecraft_
 
 
-Quieres pasar Miencraft de otra forma? Prueba con este plugin para Spiggot/Bukkit
+Quieres pasar Minecraft de otra forma? Prueba con este plugin para Spiggot/Bukkit
 
 ```
 Minecraft Versión: 1.16+
-Plugin Versión: 0.1 (Actualizado)
+Plugin Versión: 0.2 (Actualizado)
 ```
 
 ## Actualizaciones
 
 * Se agregaron todas los tipos de bloques que se puedan picar para transformarse en tierra
+
+
+
+##
+**Si utilizas este plugin por favor deja los creditos. Te lo agradeceria.**
