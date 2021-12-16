@@ -12,3 +12,8 @@ Plugin Versión: 0.2 (Actualizado)
 ## Actualizaciones
 
 * Se agregaron todas los tipos de bloques que se puedan picar para transformarse en tierra
+
+
+
+##
+**Si utilizas este plugin por favor deja los creditos. Te lo agradeceria.**
